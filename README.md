@@ -1,5 +1,10 @@
 # 💫 About Me:
-### 🔭 I’m currently working on<br>* Web development projects at **Digital Sahyam**, building responsive interfaces with **HTML, CSS, and Bootstrap**.<br>* Strengthening my core backend and problem-solving skills across multiple languages.<br><br>### 🌱 I’m currently learning<br>* Advanced Data Structures and Algorithms (**DSA**) in **Java, C++, and Python**.<br>* Deep diving into advanced software design paradigms and clean architecture.<br><br>### 👯 I’m looking to collaborate on<br>* Open-source frontend or full-stack web applications, hackathons, and coding challenges.<br><br>### 🤝 I’m looking for help with<br>* Mastering complex algorithmic design patterns and large-scale web layouts.<br><br>### 💬 Ask me about<br>* **Java** programming, **Object-Oriented Programming (OOPS)** concepts, or UI development with Bootstrap.<br><br>### ⚡ Fun fact<br>* I enjoy the challenge of context-switching between different programming languages to solve the same problem!
+### 🔭 I’m currently working on<br>* Web development projects at **Digital Sahyam**, building responsive interfaces with **HTML, CSS, and Bootstrap**.<br>* Strengthening my core backend and problem-solving skills across multiple languages.<br><br>
+### 🌱 I’m currently learning<br>* Advanced Data Structures and Algorithms (**DSA**) in **Java, C++, and Python**.<br>* Deep diving into advanced software design paradigms and clean architecture.<br><br>
+### 👯 I’m looking to collaborate on<br>* Open-source frontend or full-stack web applications, hackathons, and coding challenges.<br><br>
+### 🤝 I’m looking for help with<br>* Mastering complex algorithmic design patterns and large-scale web layouts.<br><br>
+### 💬 Ask me about<br>* **Java** programming, **Object-Oriented Programming (OOPS)** concepts, or UI development with Bootstrap.<br><br>
+### ⚡ Fun fact<br>* I enjoy the challenge of context-switching between different programming languages to solve the same problem!
 
 
 ## 🌐 Socials:
